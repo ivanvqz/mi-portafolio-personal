@@ -1,0 +1,24 @@
+/*
+font-family: 'Maven Pro', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Mono', monospace;
+*/
+
+/* =======VARIABLES CSS======= */
+:root {
+    --header-height: 3rem;
+
+
+    /* =======COLORES======= */
+    /* Decide el tema del navegador */
+    --hue-color: 250; /*GREEN: 144, Blue - 230, Purple: 250, Pink: 340*/
+
+    /* Color modo HSL */
+    --first-color: hsl(var(--hue-color), 69%, 58%);
+    --first-color-second: hsl(var(--hue-color), 71%, 47%);
+    --first-color-alt: hsl(var(--hue-color), 55%, 50%);
+    --first-color-lighter: hsl(var(--hue-color), 90%, 82%);
+    
+    --text-color: hsl(var(--hue-color), 71%, 47%);
+}
