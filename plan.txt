@@ -1,0 +1,8 @@
+header
+Main
+    INICIO
+    SOBRE
+    HABILIDADES Y EXPERIENCIA
+    PORTAFOLIO
+    CONTACTO
+footer
