@@ -204,7 +204,7 @@ img {
 
 /*NAV STYLYNG*/
 .nav{
-    /* max-width: 968px; */
+    max-width: 968px;
     height: var(--header-height);
     display: flex;
     justify-content: space-between;

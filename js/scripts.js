@@ -61,3 +61,13 @@ function linkAction(){
 
 navLink.forEach(n => n.addEventListener('click', linkAction))
 
+// ================  TEXTO BONITO  =============
+
+new Typewriter('#typewriter', {
+strings: ['Ivan Vázquez', 'Freelancer'],
+autoStart: true,
+loop: true,
+cursor: "|"
+});
+
+console.log("asdasdadkh")
