@@ -1,9 +1,0 @@
-header
-Main
-    INICIO
-    SOBRE
-    HABILIDADES
-    EXPERIENCIA
-    PORTAFOLIO
-    CONTACTO
-footer
